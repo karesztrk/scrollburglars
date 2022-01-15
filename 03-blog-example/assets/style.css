@@ -154,7 +154,8 @@ a {
   height: 75px;
   background: papayawhip;
   opacity: 1;
-  transform: translateX(12px) skew(-24deg);
+  transform: skew(-24deg);
+  margin: 12px;
 }
 
 .heading-content {
